@@ -1,4 +1,7 @@
 menu = """
+Seja bem vindo ao nosso banco!
+
+Escolha uma das opções abaixo:
 
 [1] Sacar
 [2] Depositar
